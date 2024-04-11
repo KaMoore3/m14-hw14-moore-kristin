@@ -1,0 +1,4 @@
+.accordion-button:not(.collapsed), .card-header {
+    color: white;
+    background-color: rgba(255, 166, 0, 0.87);
+}
